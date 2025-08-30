@@ -1,5 +1,3 @@
-
-
 ![enter image description here](https://i.sstatic.net/65QVog1B.jpg)
 
 
@@ -142,4 +140,4 @@ https://www.slidespilot.com/s/p/qY0ygZZknW
 https://app.presentations.ai/view/CDiPEWP1Cp  
 **خلاصه به فارسی:** این پاورپوینت جایگزین مدیریت پروژه، بر جدول زمانی، بودجه و KPIها تمرکز دارد.
 
-https://rentry.co/vzh7cqni
+https://rentry.co/5hp4u6ce/
